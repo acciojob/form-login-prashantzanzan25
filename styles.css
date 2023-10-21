@@ -1,7 +1,1 @@
 /*  your css code here. If applicable */
-
-	<form id="form1" onsubmit="getFormvalue()">
-		First name: <input type="text" id="first" name="fname"><br>
-		Last name: <input type="text" id="last" name="lname"><br>
-		<input type="submit" value="Submit">
-	</form>
